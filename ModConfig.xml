@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Property>
+ <Size>
+  <Height>300</Height>
+  <Width>500</Width>
+ </Size>
+ <Location>
+  <X>300</X>
+  <Y>300</Y>
+ </Location>
+ <LabelColor>
+  <BackColor>
+   <Color>DarkSlateGray</Color>
+  </BackColor>
+  <ForeColor>
+   <Color>White</Color>
+  </ForeColor>
+ </LabelColor>
+ <GroupBox>
+  <ForeColor>
+   <Color>White</Color>
+  </ForeColor>
+ </GroupBox>
+</Property>
